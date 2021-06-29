@@ -1,19 +1,12 @@
 import React from 'react';
 import './styles/App.css';
+import Buttons from './Buttons'
 
 function App() {
-
   return (
     <div className="App">
       <header className="App-header">
-        <p>hola</p>
-        <button>uno</button>
-        <button>dos tres</button>
-        <button>dos tres</button>
-        <button>dos tres</button>
-        <button>dos tres</button>
-        <button>dos tres</button>
-
+        <Buttons/>
       </header>
     </div>
   );

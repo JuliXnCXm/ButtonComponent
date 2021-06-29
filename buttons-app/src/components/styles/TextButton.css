@@ -1,0 +1,13 @@
+.text button {
+  color: #3D5AFE;
+  background-color: white;
+}
+
+.text button {
+  text-align: start;
+}
+
+.text2 button {
+  background: rgba(41, 98, 255, 0.1);
+  text-align: center;
+}

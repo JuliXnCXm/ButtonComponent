@@ -1,0 +1,11 @@
+.outline button {
+    color: #3D5AFE;
+    border: 1px solid #3D5AFE;
+}
+.outline button {
+    background-color: white;
+}
+
+.outline2 button {
+    background: rgba(41, 98, 255, 0.1);
+}
