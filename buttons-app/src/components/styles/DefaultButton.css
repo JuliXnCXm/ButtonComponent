@@ -1,12 +1,13 @@
 .SetButton {
   display: flex;
   justify-content: space-between;
-  width:332px;
+  width:432px;
 }
 .SetButton div{
   display: flex;
   flex-direction: column;
   font-size: 12px;
+  align-items: flex-start;
 }
 .SetButton button{
   width: 88px;

@@ -1,0 +1,27 @@
+.SetIconButton {
+  display: flex;
+  justify-content: space-between;
+  width:600px;
+}
+
+.SetIconButton div {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: flex-start;
+}
+.SetIconButton button {
+    width: 88px;
+    height:36px;
+    border: none;
+    border-radius:6px;
+    margin-top: 20px;
+    align-items: center ;
+    display: flex;
+    justify-content: space-around;
+}
+.SetIconButton img {
+  position: relative;
+  width:20px;
+  color: white;
+}

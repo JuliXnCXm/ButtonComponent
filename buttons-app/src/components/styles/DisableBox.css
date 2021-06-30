@@ -2,10 +2,6 @@
   background-color: #3D5AFE;
   color: white;
 }
-
-.disable {
-  box-shadow: none;
-}
 .active {
   box-shadow: 2px 2px #070f3a;
 }

@@ -12,7 +12,7 @@ function DisableBox()
         <div className="First DisableShadow" >
           <p type="text"></p>
           {"<Button disableShadow />"}
-          <button onClick={ToggleClass} className={isActive ? "active" : "disabled"}>Default</button>
+          <button onClick={ToggleClass} className={isActive ? "disabled" : "active"}>Default</button>
         </div>
       </div>
     )

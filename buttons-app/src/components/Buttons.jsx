@@ -3,6 +3,8 @@ import DefaultButton from './DefaultButton';
 import OutlineButton from './OutlineButton';
 import TextButton from './TextButton';
 import DisableBox from './DisableShadow';
+import Disabled from './Disabled';
+import Icon from './Icon'
 import './styles/Buttons.css'
 
 class Buttons extends React.Component {
@@ -14,6 +16,8 @@ class Buttons extends React.Component {
           <OutlineButton/>
           <TextButton/>
           <DisableBox/>
+          <Disabled/>
+          <Icon/>
       </div>
     )
   }

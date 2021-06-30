@@ -1,0 +1,15 @@
+.disable {
+  color: #808080
+}
+
+.enable {
+  background-color: #E0E0E0
+}
+.text-disable {
+  background-color: white;
+  color: #9E9E9E;
+}
+
+.enable-text {
+  background-color:#AEAEAE
+}
