@@ -1,0 +1,39 @@
+.colorButton {
+  display:flex;
+  justify-content: space-around;
+}
+.SetColorButton {
+  display: flex;
+  flex-direction: column;
+}
+.primary button {
+  color: white;
+}
+.Second {
+  margin-bottom: 50px;
+}
+.primary {
+  flex-direction: column;
+}
+.primary button {
+  background-color:#2962FF;
+}
+.Second-primary button {
+  background-color:#0039CB;
+  color: white;
+}
+.secondary button , .Second-secondary button {
+  width:104px;
+  background-color:#455A64;
+  color: white;
+}
+.Second-secondary button {
+  background-color:#1C313A;
+}
+.danger button ,.Second-danger button {
+  color: white;
+  background-color: #D32F2F;
+}
+.Second-danger button {
+  background-color: #9A0007;
+}

@@ -1,0 +1,31 @@
+.size-button {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+}
+.size-button div {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: flex-start;
+}
+.size-button div button {
+  background-color: #3D5AFE;
+  color: white;
+  border: none;
+  border-radius:6px;
+  margin-top: 20px;
+}
+.sm {
+  width:73px;
+  height:32px
+}
+.md {
+  width:81px;
+  height:36px;
+}
+
+.lg {
+  width:93px;
+  height:42px
+}

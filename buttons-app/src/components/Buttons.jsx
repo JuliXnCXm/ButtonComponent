@@ -5,6 +5,8 @@ import TextButton from './TextButton';
 import DisableBox from './DisableShadow';
 import Disabled from './Disabled';
 import Icon from './Icon'
+import SizeButton from './SizeButton';
+import ColorButton from './ColorButton';
 import './styles/Buttons.css'
 
 class Buttons extends React.Component {
@@ -18,6 +20,8 @@ class Buttons extends React.Component {
           <DisableBox/>
           <Disabled/>
           <Icon/>
+          <SizeButton/>
+          <ColorButton/>
       </div>
     )
   }

@@ -18,15 +18,15 @@ function Icon() {
               { isActive 
                 ? <div>
                     <button>
-                      <p>Default</p>
                       <img src={icono} alt="Icono"/>
+                      <p>Default</p>
                     </button>
                 </div>
                 :
                 <div>
                     <button>
-                      <img src={icono} alt="Icono"/>
                       <p>Default</p>
+                      <img src={icono} alt="Icono"/>
                     </button>
                 </div>
               }
