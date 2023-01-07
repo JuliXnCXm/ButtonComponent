@@ -1,7 +1,6 @@
 .SetIconButton {
   display: flex;
   justify-content: space-between;
-  width:600px;
 }
 
 .SetIconButton div {

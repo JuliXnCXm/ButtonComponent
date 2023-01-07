@@ -1,6 +1,11 @@
 .App {
-  width: 882px;
   height:100vh;
-  margin: 0 auto;
   color: #4F4F4F;
+  margin: 0px 35% 0% 35%;
+}
+
+@media (max-width: 400px) {
+  .App {
+    margin: 0px 10% 0% 10%;
+  }
 }

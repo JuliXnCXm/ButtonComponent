@@ -3,3 +3,7 @@
   flex-direction: column;
   justify-items: flex-start;
 }
+
+.buttons > h1 {
+  text-align: center;
+}

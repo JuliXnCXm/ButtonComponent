@@ -1,14 +1,15 @@
 .SetButton {
   display: flex;
   justify-content: space-between;
-  width:432px;
 }
+
 .SetButton div{
   display: flex;
   flex-direction: column;
   font-size: 12px;
   align-items: flex-start;
 }
+
 .SetButton button{
   width: 88px;
   height:36px;
@@ -18,9 +19,9 @@
 }
 .First button{
   background-color:   #E0E0E0;
-  
+
 }
-.Second button{ 
+.Second button{
   background-color: #AEAEAE;
 }
 

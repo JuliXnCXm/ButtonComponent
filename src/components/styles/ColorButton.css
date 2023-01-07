@@ -37,3 +37,15 @@
 .Second-danger button {
   background-color: #9A0007;
 }
+
+@media (max-width: 400px) {
+  .colorButton {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .colorButton > div {
+    display: flex;
+    flex-direction: row;
+  }
+}
