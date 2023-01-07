@@ -9,3 +9,9 @@
     margin: 0px 10% 0% 10%;
   }
 }
+
+@media (max-width: 800px) {
+  .App {
+    margin: 0px 20% 0% 20%;
+  }
+}
