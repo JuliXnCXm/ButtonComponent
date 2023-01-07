@@ -38,7 +38,7 @@
   background-color: #9A0007;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .colorButton {
     display: flex;
     flex-direction: column;
